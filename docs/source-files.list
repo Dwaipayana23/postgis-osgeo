@@ -1,0 +1,17 @@
+# Proj4 (5.1.0)
+http://download.osgeo.org/proj/proj-5.1.0.tar.gz
+
+# GEOS (3.6.2)
+http://download.osgeo.org/geos/geos-3.6.2.tar.bz2
+
+# libxml2 (2.9.8)
+ftp://xmlsoft.org/libxml2/libxml2-2.9.8.tar.gz
+
+# JSON-C (0.13.1-20180305)
+https://github.com/json-c/json-c/archive/json-c-0.13.1-20180305.tar.gz
+
+# GDAL (2.3.1)
+http://download.osgeo.org/gdal/2.3.1/gdal-2.3.1.tar.gz
+
+# PostGIS (2.4.4)
+https://download.osgeo.org/postgis/source/postgis-2.4.4.tar.gz
